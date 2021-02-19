@@ -1,4 +1,4 @@
 group :test do
-  gem 'factory_girl'
+  gem 'factory_bot'
   gem 'rails-controller-testing'
 end
